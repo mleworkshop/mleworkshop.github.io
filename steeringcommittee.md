@@ -11,3 +11,5 @@ The current members of the steering committee are:
 - [Erwan Bousse](https://bousse-e.univ-nantes.io/), University of Nantes, France
 - [Benoit Combemale](https://www.irit.fr/~Benoit.Combemale/), University of Toulouse & Inria, France
 - [Romina Eramo](http://people.disim.univaq.it/~romina.eramo/), University of L’Aquila, Italy
+
+You can contact the steering committee members at this address: mle-sc@inria.fr 

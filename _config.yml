@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Modeling Language Engineering and Execution (MLE) workshop
-email: erwan.bousse@ls2n.fr
+email: mle@inria.fr
 description: >- # this means to ignore newlines until "baseurl:"
   The Modeling Language Engineering and Execution (MLE) workshop
   aims at bringing together researchers and practitioners 
