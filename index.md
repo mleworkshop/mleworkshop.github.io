@@ -22,7 +22,7 @@ TBA
 
 ## Past editions
 
-- [MLE 2019](http://gemoc.org/events/mle2019) (co-located with [MODELS 2019](https://modelsconf19.org/))
+- [MLE 2019](http://gemoc.org/events/mle2019) (co-located with [MODELS 2019](https://modelsconf19.org/)) − [proceedings](https://ieeexplore.ieee.org/xpl/conhome/8892449/proceeding) (MODELS 2019 Companion volume) 
 
 
 In 2019, MLE was born from the merge of two long standing workshops: the International Workshop on
