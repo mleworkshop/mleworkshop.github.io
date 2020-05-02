@@ -18,7 +18,7 @@ within the software modeling community.
 
 ## Current edition
 
-TBA
+[MLE 2020](editions/mle2020)
 
 ## Past editions
 
