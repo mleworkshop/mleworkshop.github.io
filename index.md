@@ -10,15 +10,12 @@ title: About
 ## Description
 
 The Modeling Language Engineering and Execution (MLE) workshop
-aims at bringing together researchers and practitioners 
-working on modeling language engineering.
-It is a meeting opportunity for Software Language Engineering (SLE) enthusiasts
-within the software modeling community.
+aims at bringing together researchers and practitioners working on modeling language engineering. It is a meeting opportunity for Software Language Engineering (SLE) enthusiasts within the software modeling community.
 
 
 ## Current edition
 
-[MLE 2020](editions/mle2020)
+The [MLE 2020](mle2020) will be co-located with [MODELS 2020](http://www.modelsconference.org), held between Sun 18 - Fri 23 October 2020 in [Montreal, Canada](https://conf.researchr.org/venue/models-2020/models-2020-venue). 
 
 ## Past editions
 
