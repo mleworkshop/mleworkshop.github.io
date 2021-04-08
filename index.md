@@ -15,7 +15,7 @@ aims at bringing together researchers and practitioners working on modeling lang
 
 ## Current edition
 
-The [MLE 2020](mle2020) will be co-located with [MODELS 2020](http://www.modelsconference.org), held on Monday, 19 October 2020 virtually as part of the [MODELS 2020](http://www.modelsconference.org/) conference.
+The [MLE 2020](editions/mle2020) will be co-located with [MODELS 2020](http://www.modelsconference.org), held on Monday, 19 October 2020 virtually as part of the [MODELS 2020](http://www.modelsconference.org/) conference.
 
 ## Past editions
 
