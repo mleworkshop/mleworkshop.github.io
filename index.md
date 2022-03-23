@@ -15,6 +15,7 @@ aims at bringing together researchers and practitioners working on modeling lang
 
 ## Current edition
 
+<!-- [MLE 2022](editions/mle2022), co-located with [MODELS 2022](https://conf.researchr.org/home/models-2022) and held virtually in October 2022. -->
 
 ## Past editions
 
