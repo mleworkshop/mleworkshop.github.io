@@ -3,26 +3,31 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: About
+title: MLE
+subtitle: Modeling Language Engineering
 ---
 
 
 ## Description
 
-The Modeling Language Engineering and Execution (MLE) workshop
-aims at bringing together researchers and practitioners working on modeling language engineering. It is a meeting opportunity for Software Language Engineering (SLE) enthusiasts within the software modeling community.
+The Modeling Language Engineering (MLE) workshop aims at bringing together researchers and practitioners working on modeling language engineering. 
+It is a meeting opportunity for Software Language Engineering (SLE) enthusiasts within the software modeling community.
 
 
-## Current edition
+## Next edition
+
+TBA
 
 <!-- [MLE 2022](editions/mle2022), co-located with [MODELS 2022](https://conf.researchr.org/home/models-2022) and held virtually in October 2022. -->
 
 ## Past editions
 
-- [MLE 2021](editions/mle2021) (co-located with [MODELS 2021](https://conf.researchr.org/home/models-2021)) −
-[proceedings](https://ieeexplore.ieee.org/xpl/conhome/9643592/proceeding) (MODELS 2021 Companion Volume)
-- [MLE 2020](editions/mle2020) (co-located with [MODELS 2020](https://conf.researchr.org/home/models-2020)) − [proceedings](https://dl.acm.org/doi/proceedings/10.1145/3417990#heading7) (MODELS 2020 Companion Volume)
-- [MLE 2019](http://gemoc.org/events/mle2019) (co-located with [MODELS 2019](https://modelsconf19.org/)) − [proceedings](https://ieeexplore.ieee.org/xpl/conhome/8892449/proceeding) (MODELS 2019 Companion volume) 
+- [MLE 2021](editions/mle2021) (co-located with [MODELS 2021](https://conf.researchr.org/home/models-2021)) 
+    - [proceedings](https://ieeexplore.ieee.org/xpl/conhome/9643592/proceeding) (MODELS 2021 Companion Volume)
+- [MLE 2020](editions/mle2020) (co-located with [MODELS 2020](https://conf.researchr.org/home/models-2020))
+    - [proceedings](https://dl.acm.org/doi/proceedings/10.1145/3417990#heading7) (MODELS 2020 Companion Volume)
+- [MLE 2019](http://gemoc.org/events/mle2019) (co-located with [MODELS 2019](https://modelsconf19.org/))
+    - [proceedings](https://ieeexplore.ieee.org/xpl/conhome/8892449/proceeding) (MODELS 2019 Companion volume) 
 
 
 In 2019, MLE was born from the merge of two long standing workshops: the International Workshop on

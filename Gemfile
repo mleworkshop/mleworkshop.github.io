@@ -1,10 +1,10 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.2.2"
 gem "webrick", "~> 1.7"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "minima", "~> 2.0"
+# gem "minima", "~> 2.0"
+gem "beautiful-jekyll-theme"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
