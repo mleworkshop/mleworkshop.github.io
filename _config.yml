@@ -43,5 +43,6 @@ exclude:
   - Gemfile.lock
   - bundle
   - _site
+  - vendor
 
 permalink: /:year-:month-:day-:title/
