@@ -13,7 +13,7 @@ url: "https://mleworkshop.github.io/" # the base hostname & protocol for your si
 navbar-links:
   About: "/"
   Editions:
-    - MLE2022: "editions/mle2022"
+  #  - MLE2022: "editions/mle2022"
     - MLE2021: "editions/mle2021"
     - MLE2020: "editions/mle2020"
     - MLE2019: "http://gemoc.org/events/mle2019"

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Steering Commitee
+title: Steering Committee
 ---
 
 The goal of the MLE steering committee is to sustain the workshop and renew organizers every year.
