@@ -30,8 +30,8 @@ TBA
     - [proceedings](https://ieeexplore.ieee.org/xpl/conhome/8892449/proceeding) (MODELS 2019 Companion volume) 
 
 
-In 2019, MLE was born from the merge of two long standing workshops: the International Workshop on
-The Globalization of Modeling Languages (GEMOC) and the International Workshop on Executable Modeling (EXE). 
+In 2019, MLE was born from the merge of two long-standing workshops: the International Workshop on
+the Globalization of Modeling Languages (GEMOC) and the International Workshop on Executable Modeling (EXE). 
 For reference, below is the list of GEMOC and EXE editions up to 2018.
 
 - [GEMOC 2018](http://gemoc.org/events/gemoc2018) and [EXE 2018](https://modelexecution.org/exe2018/) (co-located with [MODELS 2018](https://modelsconf2018.github.io/))
