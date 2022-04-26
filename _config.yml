@@ -1,6 +1,9 @@
 
 title: Modeling Language Engineering (MLE)
-email: mle@inria.fr
+
+social-network-links:
+  email: "mle@inria.fr"
+
 description: >- # this means to ignore newlines until "baseurl:"
   The Modeling Language Engineering (MLE) workshop
   aims at bringing together researchers and practitioners 
