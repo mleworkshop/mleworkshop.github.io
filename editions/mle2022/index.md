@@ -50,7 +50,7 @@ In this talk, I will introduce three different approaches to tackle this problem
 - 8:40 − Keynote by Juan de Lara 
 
 - 9:30 − _Design Guidelines for Improving User Experience in Industrial Domain-Specific Modelling Languages_<br />
-            by Rohit Gupta, Nico Jansen, Nikolaus Regnat and Bernhard Rumpe.
+            by Rohit Gupta, Nico Jansen, Nikolaus Regnat and Bernhard Rumpe ([paper](https://arxiv.org/abs/2209.14060)).
 
 ### Coffee break (10:00 − 10:30)
 
