@@ -76,7 +76,7 @@ by Moussa Amrani, Abdelkader Ouared and Pierre-Yves Schobbens.
             by Holger Stadel Borum and Morten Tychsen Clausen.
 
 - 14:30 − _A Tool-Assisted Approach to Engineer Domain-Specific Languages (DSLs) using Rust_<br />
-            by Léo Olivier, Lou-Anne Sauvêtre, Erwan Bousse and Gerson Sunyé.
+            by Léo Olivier, Lou-Anne Sauvêtre, Erwan Bousse and Gerson Sunyé ([paper](https://hal.archives-ouvertes.fr/hal-03790527/document)).
 
 
 ### Coffee break (15:00 − 15:30)
