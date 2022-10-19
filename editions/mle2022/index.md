@@ -4,7 +4,26 @@ title: MLE 2022
 subtitle: 4th International Workshop on Modeling Language Engineering, October 24, 2022 <br /> Co-located with <a href="https://conf.researchr.org/home/models-2022">MODELS 2022</a>
 ---
 
+<style>
+.session-chairs {
+  display: flex;
+  height: 200px;
+}
+.session-chair {
+  flex: 1;
+  text-align: center;
+  max-height: 100%;
+}
 
+.session-chair img {
+  max-height: 80%;
+}
+
+.session-chair a {
+  max-height: 20%;
+}
+
+</style>
 
 <p align="center">
   <a href="#about">About</a> | 
@@ -35,15 +54,42 @@ In this talk, I will introduce three different approaches to tackle this problem
 
 ### Speaker
 <div style="text-align: left;" markdown="1">
-<img style="display: block; margin: auto;" alt="Juan de Lara photo" src="/editions/mle2022/images/juandelara.jpeg">
+<img style="display: block; margin: auto; height: 200px;" alt="Juan de Lara photo" src="/editions/mle2022/images/juandelara.jpeg">
 
 [Prof. Juan de Lara](http://arantxa.ii.uam.es/~jlara/) is full professor at the computer science department of the Universidad Autónoma of Madrid (Spain), where he leads the modelling and software engineering research ([miso](http://www.miso.es/)) team together with Esther Guerra. His main research interests are in automated software engineering, model-driven development, domain-specific languages and language engineering, conversational interfaces, and augmented reality. This research has led to building many practical tools – including [AToM3](http://atom3.cs.mcgill.ca/), [metaDepth](https://metadepth.org/), [merlin](http://miso.es/tools/merlin/), [alter](https://alter-ar.github.io/), [DSL-comet](https://diagrameditorserver.herokuapp.com/), [DSL-tao](http://jdelara.github.io/DSL-tao/) and [Capone](https://capone-pl.github.io/)– and the publication of more than 230 papers in international journals and conferences. He has been the PC co-chair of several conferences within his research areas, like MODELS, SLE, ICGT, ICMT and FASE, and has been involved in workshops on topics like flexible modelling, multi-level modelling and low-code development.
 </div>
 
+
+## Session chairs
+
+The [organizing committee](#organizing-committee) of MLE 2022 is unfortunately not able to be physically present at MODELS 2022.
+Therefore, exceptionnally, MLE 2022 will be presented by three voluntary session chairs from the MLE community:
+
+
+<div class='session-chairs'>
+  <div class='session-chair'>
+    <img style="display: block; margin: auto;" alt="Benoit Combemale photo" src="/editions/mle2022/images/benoit.jpg">
+    <a href="https://people.irisa.fr/Benoit.Combemale/">Benoit Combemale</a>
+  </div>
+  <div class='session-chair'>
+    <img style="display: block; margin: auto;" alt="Ed Seidewitz photo" src="/editions/mle2022/images/ed.jpg">
+    <a href="https://www.linkedin.com/in/seidewitz">Ed Seidewitz</a>
+  </div>
+  <div class='session-chair'>
+    <img style="display: block; margin: auto;" alt="Jean-Marie Mottu photo" src="/editions/mle2022/images/jmm.jpg">
+    <a href="http://pagesperso.ls2n.fr/~mottu-jm/welcome-en.html">Jean-Marie Mottu</a>
+  </div>
+</div>
+
+
+
 ## Program
-**Date**: Monday the **24th** of October 2022
+
+**Date**: Monday the 24th of October 2022
 
 ### Session 1 (8:30 − 10:00) 
+
+_Chair: Benoit Combemale_
 
 - 8:30 − Workshop introduction
 
@@ -55,6 +101,8 @@ In this talk, I will introduce three different approaches to tackle this problem
 ### Coffee break (10:00 − 10:30)
 
 ### Session 2 (10:30 − 12:00)
+
+_Chair: Ed Seidewitz_
 
 - 10:30 − _Towards The Systematic Design of Model Animation: Key Ingredients and General Guidelines_<br />
 by Moussa Amrani, Abdelkader Ouared and Pierre-Yves Schobbens. 
@@ -68,6 +116,8 @@ by Moussa Amrani, Abdelkader Ouared and Pierre-Yves Schobbens.
 ### Lunch break (12:00 − 13:30)
 
 ### Session 3 (13:30 − 15:00)
+
+_Chair: Jean-Marie Mottu_
 
 - 13:30 − _An Implementation of a Statecharts Interpreter and Compiler With Semantic Variability_<br />
             by Joeri Exelmans, Simon Van Mierlo and Hans Vangheluwe.
@@ -83,7 +133,11 @@ by Moussa Amrani, Abdelkader Ouared and Pierre-Yves Schobbens.
 
 ### Session 4 (15:30 − 17:00)
 
+_Chairs: Benoit Combemale and Ed Seidewitz_
+
 - Discussions (TBA) and closing words
+
+
 
 ## Call for papers
 
