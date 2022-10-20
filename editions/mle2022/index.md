@@ -128,11 +128,11 @@ by Moussa Amrani, Abdelkader Ouared and Pierre-Yves Schobbens.
 
 _Chair: Jean-Marie Mottu_
 
-- 13:30 − _An Implementation of a Statecharts Interpreter and Compiler With Semantic Variability_<br />
-            by Joeri Exelmans, Simon Van Mierlo and Hans Vangheluwe.
+- 13:30 − _A Statecharts Interpreter and Compiler With Semantic Variability_<br />
+            by Joeri Exelmans, Simon Van Mierlo and Hans Vangheluwe ([paper](/editions/mle2022/papers/Statecharts-Interpreter.pdf)).
 
 - 14:00 − _Transforming Domain Models to Efficient C# for the Danish Pension Industry_<br />
-            by Holger Stadel Borum and Morten Tychsen Clausen.
+            by Holger Stadel Borum and Morten Tychsen Clausen ([paper](/editions/mle2022/papers/TransformingDomainModels.pdf)).
 
 - 14:30 − _A Tool-Assisted Approach to Engineer Domain-Specific Languages (DSLs) using Rust_<br />
             by Léo Olivier, Lou-Anne Sauvêtre, Erwan Bousse and Gerson Sunyé ([paper](https://hal.archives-ouvertes.fr/hal-03790527/document)).
