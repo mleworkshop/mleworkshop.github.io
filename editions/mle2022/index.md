@@ -7,7 +7,7 @@ subtitle: 4th International Workshop on Modeling Language Engineering, October 2
 <style>
 .session-chairs {
   display: flex;
-  height: 200px;
+  height: 280px;
 }
 .session-chair {
   flex: 1;
@@ -21,6 +21,11 @@ subtitle: 4th International Workshop on Modeling Language Engineering, October 2
 
 .session-chair a {
   max-height: 20%;
+}
+
+.session-chair p {
+  margin: 0px;
+  font-size: 12pt;
 }
 
 </style>
@@ -70,14 +75,17 @@ Therefore, exceptionally, MLE 2022 will be presented by three voluntary session 
   <div class='session-chair'>
     <img style="display: block; margin: auto;" alt="Benoit Combemale photo" src="/editions/mle2022/images/benoit.jpg">
     <a href="https://people.irisa.fr/Benoit.Combemale/">Benoit Combemale</a>
+    <p>(University of Rennes 1, France)</p>
   </div>
   <div class='session-chair'>
     <img style="display: block; margin: auto;" alt="Ed Seidewitz photo" src="/editions/mle2022/images/ed.jpg">
     <a href="https://www.linkedin.com/in/seidewitz">Ed Seidewitz</a>
+    <p>(Model Driven Solutions, USA)</p>
   </div>
   <div class='session-chair'>
     <img style="display: block; margin: auto;" alt="Jean-Marie Mottu photo" src="/editions/mle2022/images/jmm.jpg">
     <a href="http://pagesperso.ls2n.fr/~mottu-jm/welcome-en.html">Jean-Marie Mottu</a>
+    <p>(Nantes Université, France)</p>
   </div>
 </div>
 
@@ -203,7 +211,7 @@ The accepted papers will be included in the joint workshop proceedings published
 
 <img style="display: block; margin: auto;" alt="Erwan Bousse photo" src="/editions/mle2022/images/Erwan.jpg">
 
-[Erwan Bousse (Nantes University)](https://bousse-e.univ-nantes.io/) is an Associate Professor at the University of Nantes (France). 
+[Erwan Bousse (Nantes Université)](https://bousse-e.univ-nantes.io/) is an Associate Professor at Nantes Université (France). 
 He obtained his PhD in France in 2015 at the University of Rennes 1 for his work on execution traces and omniscient debugging of executable models. 
 He co-organized on multiple occasions the EXE, GEMOC, and MLE workshops at MODELS, and is a founder member of the MLE steering committee.
 His current research interests include Software Language Engineering (SLE), Model-Driven Engineering (MDE), Domain-Specific Languages (DSLs), model execution and simulation, and the debugging and testing of models.
