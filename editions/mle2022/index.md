@@ -26,6 +26,7 @@ subtitle: 4th International Workshop on Modeling Language Engineering, October 2
 .session-chair p {
   margin: 0px;
   font-size: 12pt;
+  font-style: italic;
 }
 
 </style>
