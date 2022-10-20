@@ -63,7 +63,7 @@ In this talk, I will introduce three different approaches to tackle this problem
 ## Session chairs
 
 The [organizing committee](#organizing-committee) of MLE 2022 is unfortunately not able to be physically present at MODELS 2022.
-Therefore, exceptionnally, MLE 2022 will be presented by three voluntary session chairs from the MLE community:
+Therefore, exceptionally, MLE 2022 will be presented by three voluntary session chairs from the MLE community:
 
 
 <div class='session-chairs'>
