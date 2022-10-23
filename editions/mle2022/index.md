@@ -119,8 +119,8 @@ by Moussa Amrani, Abdelkader Ouared and Pierre-Yves Schobbens.
 - 11:00 − _Classification and Mapping of Layout Algorithms for Usage in Graph-Like Modeling Languages_<br />
             by Gregor Wrobel and Robert Scheffler ([paper](/editions/mle2022/papers/WrobelScheffler_ClassificationMapping_MLE2022_cr_final.pdf)).
 
-- 11:30 − _Generalized Architecture for Client-Agnostic Hybrid Model Editors as a Service_<br />
-            by Liam Walsh, Karim Jahed and Juergen Dingel.
+- 11:30 − _A General Architecture for Client-Agnostic Hybrid Model Editors as a Service_<br />
+            by Liam Walsh, Karim Jahed and Juergen Dingel ([paper](/editions/mle2022/papers/Hybrid_Language_Servers.pdf)).
 
 ### Lunch break (12:00 − 13:30)
 
