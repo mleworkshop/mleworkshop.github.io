@@ -54,7 +54,7 @@ The Modeling Language Engineering (MLE) workshop aims at bringing together resea
 
 
 ## Keynote
-### Engineering Families of Modelling Languages: A tale of three approaches
+### Engineering Families of Modelling Languages: A tale of three approaches ([slides](/editions/mle2022/slides/MLE_keynote.pdf))
 **Abstract**: Modelling languages are intensively used in paradigms like model-driven engineering to automate all sort of tasks within the development process. These languages may have variants (like the cases of Petri nets, automata, architectural languages, and many others) in which case, there is the need to deal with language families rather than with individual languages. Moreover, low-code approaches aim at lowering the entry barrier to software development, frequently via the use of modelling notations. Users of low-code environments have a wide range of backgrounds, which calls for specialized language variants, tailored to users with different levels of expertise. However, from a language engineering perspective, specifying the syntax and semantics of each language variant separately is costly, hinders reuse across variants, and may yield inconsistent semantics between variants.
 In this talk, I will introduce three different approaches to tackle this problem, based on multi-level modelling, superimposed language variants, and language modules. I will discuss the weak and strong points of each one of them based on a practical case study and propose challenges for future work.
 
