@@ -17,6 +17,8 @@ subtitle: 4th International Workshop on Modeling Language Engineering, October 2
 
 .session-chair img {
   max-height: 80%;
+  display: block; 
+  margin: auto;
 }
 
 .session-chair a {
@@ -28,7 +30,6 @@ subtitle: 4th International Workshop on Modeling Language Engineering, October 2
   font-size: 12pt;
   font-style: italic;
 }
-
 </style>
 
 <p align="center">
@@ -39,6 +40,8 @@ subtitle: 4th International Workshop on Modeling Language Engineering, October 2
   <a href="#dates">Dates</a> | 
   <a href="#program-committee">Program committee</a>
 </p>
+
+{% include gallery.html folder="editions/mle2022/photos" width="200" height="150" %}
 
 ## About
 
