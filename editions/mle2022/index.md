@@ -57,7 +57,7 @@ The Modeling Language Engineering (MLE) workshop aims at bringing together resea
 
 
 ## Keynote
-### Engineering Families of Modelling Languages: A tale of three approaches
+### Engineering Families of Modelling Languages: A tale of three approaches ([slides](/editions/mle2022/slides/MLE_keynote.pdf))
 **Abstract**: Modelling languages are intensively used in paradigms like model-driven engineering to automate all sort of tasks within the development process. These languages may have variants (like the cases of Petri nets, automata, architectural languages, and many others) in which case, there is the need to deal with language families rather than with individual languages. Moreover, low-code approaches aim at lowering the entry barrier to software development, frequently via the use of modelling notations. Users of low-code environments have a wide range of backgrounds, which calls for specialized language variants, tailored to users with different levels of expertise. However, from a language engineering perspective, specifying the syntax and semantics of each language variant separately is costly, hinders reuse across variants, and may yield inconsistent semantics between variants.
 In this talk, I will introduce three different approaches to tackle this problem, based on multi-level modelling, superimposed language variants, and language modules. I will discuss the weak and strong points of each one of them based on a practical case study and propose challenges for future work.
 
@@ -108,7 +108,7 @@ _Chair: Benoit Combemale_
 - 8:40 − Keynote by Juan de Lara 
 
 - 9:30 − _Design Guidelines for Improving User Experience in Industrial Domain-Specific Modelling Languages_<br />
-            by Rohit Gupta, Nico Jansen, Nikolaus Regnat and Bernhard Rumpe ([paper](https://arxiv.org/abs/2209.14060)).
+            by Rohit Gupta, Nico Jansen, Nikolaus Regnat and Bernhard Rumpe ([paper](https://arxiv.org/abs/2209.14060), [slides](/editions/mle2022/slides/MLE_Paper_Gupta_Jansen_Regnat_Rumpe.pdf)).
 
 ### Coffee break (10:00 − 10:30)
 
@@ -120,10 +120,10 @@ _Chair: Ed Seidewitz_
 by Moussa Amrani, Abdelkader Ouared and Pierre-Yves Schobbens. 
 
 - 11:00 − _Classification and Mapping of Layout Algorithms for Usage in Graph-Like Modeling Languages_<br />
-            by Gregor Wrobel and Robert Scheffler ([paper](/editions/mle2022/papers/WrobelScheffler_ClassificationMapping_MLE2022_cr_final.pdf)).
+            by Gregor Wrobel and Robert Scheffler ([paper](/editions/mle2022/papers/WrobelScheffler_ClassificationMapping_MLE2022_cr_final.pdf), [slides](/editions/mle2022/slides/MLE2022_ClassificationMapping.pdf)).
 
-- 11:30 − _Generalized Architecture for Client-Agnostic Hybrid Model Editors as a Service_<br />
-            by Liam Walsh, Karim Jahed and Juergen Dingel.
+- 11:30 − _A General Architecture for Client-Agnostic Hybrid Model Editors as a Service_<br />
+            by Liam Walsh, Karim Jahed and Juergen Dingel ([paper](/editions/mle2022/papers/Hybrid_Language_Servers.pdf), [slides](/editions/mle2022/slides/Hybrid_language_servers_MLE_2022.pdf)).
 
 ### Lunch break (12:00 − 13:30)
 
@@ -131,11 +131,11 @@ by Moussa Amrani, Abdelkader Ouared and Pierre-Yves Schobbens.
 
 _Chair: Jean-Marie Mottu_
 
-- 13:30 − _An Implementation of a Statecharts Interpreter and Compiler With Semantic Variability_<br />
-            by Joeri Exelmans, Simon Van Mierlo and Hans Vangheluwe.
+- 13:30 − _A Statecharts Interpreter and Compiler With Semantic Variability_<br />
+            by Joeri Exelmans, Simon Van Mierlo and Hans Vangheluwe ([paper](/editions/mle2022/papers/Statecharts-Interpreter.pdf)).
 
 - 14:00 − _Transforming Domain Models to Efficient C# for the Danish Pension Industry_<br />
-            by Holger Stadel Borum and Morten Tychsen Clausen.
+            by Holger Stadel Borum and Morten Tychsen Clausen ([paper](/editions/mle2022/papers/TransformingDomainModels.pdf), [slides](/editions/mle2022/slides/Transforming-Domain-Models.pptx)).
 
 - 14:30 − _A Tool-Assisted Approach to Engineer Domain-Specific Languages (DSLs) using Rust_<br />
             by Léo Olivier, Lou-Anne Sauvêtre, Erwan Bousse and Gerson Sunyé ([paper](https://hal.archives-ouvertes.fr/hal-03790527/document)).
