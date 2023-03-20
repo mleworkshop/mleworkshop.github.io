@@ -20,7 +20,8 @@ TBA
 
 ## Past editions
 
-- [MLE 2022](editions/mle2022), co-located with [MODELS 2022](https://conf.researchr.org/home/models-2022) in Montreal, Canada on October 23-25 2022.
+- [MLE 2022](editions/mle2022) (co-located with [MODELS 2022](https://conf.researchr.org/home/models-2022))
+    - [proceedings](https://dl.acm.org/doi/proceedings/10.1145/3550356#heading14) (MODELS 2022 Companion Proceedings)
 - [MLE 2021](editions/mle2021) (co-located with [MODELS 2021](https://conf.researchr.org/home/models-2021)) 
     - [proceedings](https://ieeexplore.ieee.org/xpl/conhome/9643592/proceeding) (MODELS 2021 Companion Volume)
 - [MLE 2020](editions/mle2020) (co-located with [MODELS 2020](https://conf.researchr.org/home/models-2020))
