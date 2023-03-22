@@ -98,7 +98,7 @@ The accepted papers will be included in the joint workshop proceedings published
 ## Organizing committee
 
 - Ed Seidewitz (Model Driven Solutions, USA)
-
+- Arnaud Blouin (INSA Rennes, France)
 
 ## Program committee
 
