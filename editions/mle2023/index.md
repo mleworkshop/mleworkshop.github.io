@@ -99,6 +99,7 @@ The accepted papers will be included in the joint workshop proceedings published
 
 - Ed Seidewitz (Model Driven Solutions, USA)
 - Arnaud Blouin (INSA Rennes, France)
+- Jérôme Pfeiffer (Universität Stuttgart, Germany)
 
 ## Program committee
 
