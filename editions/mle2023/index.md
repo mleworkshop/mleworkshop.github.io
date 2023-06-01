@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MLE 2023
-subtitle: 5th International Workshop on Modeling Language Engineering, October XX, 2023 <br /> Co-located with <a href="https://conf.researchr.org/home/models-2023">MODELS 2023</a>
+subtitle: 5th International Workshop on Modeling Language Engineering, October 1-3, 2023 <br /> Co-located with <a href="https://conf.researchr.org/home/models-2023">MODELS 2023</a>
 ---
 
 <p align="center">
