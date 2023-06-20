@@ -103,4 +103,18 @@ The accepted papers will be included in the joint workshop proceedings published
 
 ## Program committee
 
-TBA
+- Tony Clark, Aston University, UK
+- Peter J.Clarke, Florida International University , USA
+- Davide Di Ruscio, University of L'Aquila, Italy
+- Juergen Dingel, Queen's University, Canada
+- Djamel Eddine Khelladi, CNRS, France
+- Faezeh Khoram, IMT Atlantique, France
+- Zoltán Micskei, Budapest University of Technology and Economics, Hungary
+- Jean-Marie Mottu, Nantes University, France
+- Cortland Starrett, OneFact, USA
+- Massimo Tisi, IMT Atlantique, France
+- Juha-Pekka Tolvanen, MetaCase, Finland
+- Federico Tomassetti, Strumenta, Italia
+- Ernesto Posse, Zeligsoft, Canada
+- Manuel Wimmer, Johannes Kepler University Linz, Austria
+- Andreas Wortmann, RWTH Aachen University, Germany
