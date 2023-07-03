@@ -83,7 +83,7 @@ Two more pages containing only references are permitted.
 Papers that describe use cases or novel approaches can be accompanied by concrete artifacts, such as models (requirements, design, analysis, transformation, composition, etc.), stored in a public repository. Artifacts should illustrate any experience with the conjoint use of different modeling languages.
 
 
-All submissions have to follow the IEEE format (`IEEEtran`) and must be submitted electronically in PDF format [via Easychair](https://easychair.org/my/conference?conf=mle2023). They will be evaluated by at least three members of the program committee regarding novelty, correctness, significance, readability, and alignment with the workshop call. 
+All submissions have to follow the IEEE format (`IEEEtran`) and must be submitted electronically in PDF format [via Easychair](https://easychair.org/conferences/?conf=mle23). They will be evaluated by at least three members of the program committee regarding novelty, correctness, significance, readability, and alignment with the workshop call. 
 Furthermore, all submissions must be original work and must not have been previously published or being under review elsewhere. 
 The accepted papers will be included in the joint workshop proceedings published by the IEEE.
 
