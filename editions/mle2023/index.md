@@ -90,9 +90,10 @@ The accepted papers will be included in the joint workshop proceedings published
 
 ## Dates
 
-- **Paper submission deadline**: July 17, 2023
-- **Notification of acceptance**: August 15, 2023
-- **Camera-ready deadline**: August 22, 2023
+- **Paper Abstract submission deadline**: July 17, 2023, AOE
+- **Paper submission deadline**: July 20, 2023, AOE
+- **Notification of acceptance**: August 15, 2023, AOE
+- **Camera-ready deadline**: August 22, 2023, AOE
 - **Workshop**: one full day between October 1 and 3, 2023 (the exact day will be specified soon)
 
 ## Organizing committee
