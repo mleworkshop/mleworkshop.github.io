@@ -29,11 +29,58 @@ The Modeling Language Engineering (MLE) workshop aims at bringing together resea
 
 ## Keynote
 
-TBA
+Manuel Wimmer
+
+Title and abstract to come soon
+
 
 ## Program
 
+
+Session 1 -- Domain-Specific Modeling (9:25 - 11:00)
+
+9:25 Introduction
+
+9:30
+- User-Centric Model-Aware Recommendations for Industrial Domain-Specific Modelling Languages. Rohit Gupta, Nico Jansen, Nikolaus Regnat and Bernhard Rumpe
+
+10:00
+- Enhancing Gameful Systems with a Domain Specific Language for Rules Lifecycle Management. Antonio Bucchiarone, Stefano Martella, Mario Fusco and Henry Muccini
+
+10:30
+- On the Suitability of LSP and DAP for Domain-Specific Languages. Josselin Enet, Erwan Bousse, Massimo Tisi and Gerson Sunyé
+
+
+Coffee break (11:00 − 11:30)
+
+Session 2 -- Discussions / Panel (11:30 − 13:00)
 TBA
+
+ 
+Lunch break (13:00 − 14:30)
+
+
+Session 3 -- Keynote and Modeling Language Tooling  (14:30 - 16:00)
+
+14:30
+- Keynote: Manuel Wimmer
+
+15:30
+- Collaborative Live Modelling by Language-Agnostic Versioning. Joeri Exelmans, Ciprian Teodorov, Robert Heinrich, Alexander Egyed and Hans Vangheluwe
+
+
+Coffee break (16:00 - 16:30)
+
+Session 4 -- Modeling Language Tooling (16:30 - 18:00)
+
+16:30
+- Monitoring Association Constraints in Model-Oriented Programming. Sylvain Guerin, Joel Champeau, Antoine Beugnard and Salvador Martínez
+
+17:00
+- Towards an End-to-End Metamodeling Approach using Rust. Léo Olivier, Marcos Didonet Del Fabro, Chokri Mraidha and Sébatien Gérard
+
+17:30
+- Discussions
 
 
 ## Call for papers
