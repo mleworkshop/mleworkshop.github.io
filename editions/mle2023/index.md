@@ -52,23 +52,36 @@ Title and abstract to come soon
 
 ### Coffee break (11:00 − 11:30)
 
-### Session 2 -- Discussions / Panel (11:30 − 13:00)
-TBA
+### Session 2 -- Panel (11:30 − 13:00)
+
+**Title**: "Engineering and Implementing SysML v2"
+
+**Moderator**: Ed Seidewitz, Model Driven Solutions
+
+**Panelists**:
+
+- Jérémie Tatibouet, CEA
+- Maxime Savary-LeBlanc, Ansys
+- Patrick Ollerton, PTC
+- Ákos Horváth, IncQuery Labs
 
  
 ### Lunch break (13:00 − 14:30)
 
 
-### Session 3 -- Keynote and Modeling Language Tooling  (14:30 - 16:00)
+### Session 3 -- Keynote (14:30 - 15:30)
 
 14:30 -- Keynote: Manuel Wimmer
+
+### Session 4 (1) -- Modeling Language Tooling  (15:30 - 16:00)
+
 
 15:30 -- Collaborative Live Modelling by Language-Agnostic Versioning. Joeri Exelmans, Ciprian Teodorov, Robert Heinrich, Alexander Egyed and Hans Vangheluwe
 
 
 ### Coffee break (16:00 - 16:30)
 
-### Session 4 -- Modeling Language Tooling (16:30 - 18:00)
+### Session 4 (2) -- Modeling Language Tooling (16:30 - 18:00)
 
 16:30 -- Monitoring Association Constraints in Model-Oriented Programming. Sylvain Guerin, Joel Champeau, Antoine Beugnard and Salvador Martínez
 
