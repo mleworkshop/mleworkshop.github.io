@@ -31,7 +31,11 @@ The Modeling Language Engineering (MLE) workshop aims at bringing together resea
 
 Manuel Wimmer
 
-Title and abstract to come soon
+**Title**: Out-of-the-Box Testing and Debugging Techniques for Domain-Specific Languages
+
+Developing software-intensive systems is still a major challenge as current systems have to incorporate complex domain knowledge, e.g., see Digital Twins as one prominent example. Model-Driven Engineering aims at reducing the accidental complexity associated with the development of such systems through the use of Domain-Specific Languages (DSLs). Such languages allow domain experts the design of systems by providing dedicated modeling concepts and editors. However, to realize the full potential of DSLs, domain experts have to be kept in the loop in later phases of the system life-cycle such as testing and debugging. For this, additional tool support is required that goes beyond what is currently provided by modeling editors.
+
+To improve this situation, we propose the automated generation of generic testing and debugging tools for DSLs based on existing language engineering techniques which also incorporate the operational semantics of DSLs. In particular, we have worked on model coverage computation to assess the quality of test suites for domain-specific models and fault localization mechanisms to trace back incorrect behaviour to those model elements that cause the fault. In my talk, I will give an overview on the foundations for such techniques and give a tour on tools we have developed with our international collaboration partners for the GEMOC Studio.
 
 
 ## Program
