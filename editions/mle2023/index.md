@@ -162,7 +162,6 @@ The accepted papers will be included in the joint workshop proceedings published
 
 ## Program committee
 
-- Tony Clark, Aston University, UK
 - Peter J.Clarke, Florida International University , USA
 - Davide Di Ruscio, University of L'Aquila, Italy
 - Juergen Dingel, Queen's University, Canada
