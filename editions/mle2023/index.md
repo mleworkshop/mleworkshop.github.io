@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MLE 2023
-subtitle: 5th International Workshop on Modeling Language Engineering, October 1-3, 2023 <br /> Co-located with <a href="https://conf.researchr.org/home/models-2023">MODELS 2023</a>
+subtitle: 5th International Workshop on Modeling Language Engineering, October 1, 2023 <br /> Co-located with <a href="https://conf.researchr.org/home/models-2023">MODELS 2023</a>
 ---
 
 <p align="center">
@@ -152,7 +152,7 @@ The accepted papers will be included in the joint workshop proceedings published
 - **Paper submission deadline**: July 20, 2023, AOE
 - **Notification of acceptance**: August 15, 2023, AOE
 - **Camera-ready deadline**: August 22, 2023, AOE
-- **Workshop**: one full day between October 1 and 3, 2023 (the exact day will be specified soon)
+- **Workshop**: October 1, 2023, full day
 
 ## Organizing committee
 
