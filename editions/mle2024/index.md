@@ -13,7 +13,6 @@ subtitle: 6th International Workshop on Modeling Language Engineering, September
   <a href="#program-committee">Program committee</a>
 </p>
 
-
 ## About
 
 Software-intensive systems are complicated, driven by the need to integrate across multiple concerns.
@@ -26,11 +25,9 @@ Equally, the proliferation of domain-specific modeling languages required increa
 
 The Modeling Language Engineering (MLE) workshop aims at bringing together researchers and practitioners working on modeling-language and software-language engineering. It is a meeting opportunity for Software Language Engineering (SLE) enthusiasts within the software-modeling community.
 
-
 ## Keynote
 
 TBA
-
 
 ## Program
 
@@ -41,7 +38,6 @@ TBA
 ### Topics
 
 The topics of interest for MLE 2024 include:
-
 
 - Methodologies, languages, techniques, and methods for designing and implementing modeling languages
 - Composition, extension, and reuse of modeling languages and model execution tools
@@ -63,40 +59,34 @@ The topics of interest for MLE 2024 include:
 - Surveys and benchmarks of different approaches for the development of modeling languages, model execution, and execution-based model analysis
 
 Submissions describing practical and industrial experience related to the use of modeling languages are also encouraged, particularly in the following application domains:
-Cyber-Physical Systems, Smart Manufacturing, Industry 4.0;  Internet of Services, Internet of Things; Smart City, Smart Building, Home automation; Smart and Learning systems.
-
+Cyber-Physical Systems, Smart Manufacturing, Industry 4.0; Internet of Services, Internet of Things; Smart City, Smart Building, Home automation; Smart and Learning systems.
 
 ### Workshop Format
 
-This full-day workshop will prioritize discussions over presentations. We plan to open with a keynote in the morning, followed by paper presentations. 
-The afternoon will then be spent primarily in discussions inspired by topics raised by the keynotes and paper presentations. 
-Where there is sufficient divergence in the topics raised, we will create break-out groups of participants interested in each sub-topic. The goal of these discussions is to identify commonalities and connections between different topics, support research networking, cross-pollination, and informal knowledge transfer. 
+This full-day workshop will prioritize discussions over presentations. We plan to open with a keynote in the morning, followed by paper presentations.
+The afternoon will then be spent primarily in discussions inspired by topics raised by the keynotes and paper presentations.
+Where there is sufficient divergence in the topics raised, we will create break-out groups of participants interested in each sub-topic. The goal of these discussions is to identify commonalities and connections between different topics, support research networking, cross-pollination, and informal knowledge transfer.
 The final session of the workshop will be focused on summarizing the key topics and ideas discussed at the workshop to help identify the next steps that may be followed up by workshop participants.
 
 ### Submission
 
 We expect early research results about the aforementioned topics, descriptions of problems, case studies, experience reports, or solutions related to the topics of interest.
 
-Each contribution must be described in a short paper of 5 pages or a full paper of 10 pages, in ACM format (`acmart`).
-Two more pages containing only references are permitted.
+Each contribution must be described in a short paper of 5 pages or a full paper of 10 pages, including references, in ACM format (`acmart`).
 
 Papers that describe use cases or novel approaches can be accompanied by concrete artifacts, such as models (requirements, design, analysis, transformation, composition, etc.), stored in a public repository. Artifacts should illustrate any experience with the conjoint use of different modeling languages.
 
-
-All submissions have to follow the ACM format (`acmart`) and must be submitted electronically in PDF format [via Easychair](https://easychair.org/conferences/?conf=mle24). They will be evaluated by at least three members of the program committee regarding novelty, correctness, significance, readability, and alignment with the workshop call. 
-Furthermore, all submissions must be original work and must not have been previously published or being under review elsewhere. 
+All submissions have to follow the ACM format (`acmart`) and must be submitted electronically in PDF format [via Easychair](https://easychair.org/conferences/?conf=mle24). They will be evaluated by at least three members of the program committee regarding novelty, correctness, significance, readability, and alignment with the workshop call.
+Furthermore, all submissions must be original work and must not have been previously published or being under review elsewhere.
 The accepted papers will be included in the joint workshop proceedings published by the ACM.
-
 
 ## Dates
 
-- **Paper Abstract submission deadline**: June 28, 2024, AOE
-- **Paper submission deadline**: July 5, 2024, AOE
-- **Notification of acceptance**: August 9, 2024, AOE
-- **Camera-ready deadline**: August 14, 2024, AOE
+- **Paper Abstract submission deadline**: Friday, June 28, 2024
+- **Paper submission deadline**: Friday, 5 July 2024
+- **Notification of acceptance**: Wednesday, 7 August 2024
+- **Camera-ready deadline**: Friday, 16 August 2024
 - **Workshop**: TBA
-
-
 
 ## Organizing committee
 
