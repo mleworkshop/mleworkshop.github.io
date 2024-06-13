@@ -17,6 +17,7 @@ url: "https://mleworkshop.github.io/" # the base hostname & protocol for your si
 navbar-links:
   About: "/"
   Editions:
+    - MLE2024: "editions/mle2024"
     - MLE2023: "editions/mle2023"
     - MLE2022: "editions/mle2022"
     - MLE2021: "editions/mle2021"
