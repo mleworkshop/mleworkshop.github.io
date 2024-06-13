@@ -96,4 +96,15 @@ The accepted papers will be included in the joint workshop proceedings published
 
 ## Program committee
 
-TBA
+- Marsha Chechik,	University of Toronto, Canada
+- Juergen	Dingel, Queen's University, Canada
+- Romina Eramo, University of Teramo, Italy
+- Peter J.Clarke, Florida International University, USA
+- Sofia Meacham, Bournemouth University, UK
+- Zoltan Micskei, Budapest University of Technology and Economics, Hungary
+- Jean-Marie Mottu, Nantes Université, France
+- Ernesto Posse, Lumenix/Zeligsoft, Canada
+- Nicolas Rouquette, Jet Propulsion Laboratory, USA
+- Bianca Wiesmayr, Johannes Kepler University Linz, Austria
+- Vadim	Zaytsev, Universiteit Twente, Netherlands
+- Juan De Lara, Universidad Autonoma de Madrid, Spain
