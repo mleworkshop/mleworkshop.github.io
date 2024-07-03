@@ -83,7 +83,7 @@ The accepted papers will be included in the joint workshop proceedings published
 ## Dates
 
 - **Paper Abstract submission deadline**: Friday, June 28, 2024
-- **Paper submission deadline**: Friday, 5 July 2024
+- **Paper submission deadline**: ~~Friday, 5 July 2024~~ Monday, 15 July 2024 (Extended)
 - **Notification of acceptance**: Wednesday, 7 August 2024
 - **Camera-ready deadline**: Friday, 16 August 2024
 - **Workshop**: TBA
