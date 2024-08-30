@@ -117,14 +117,14 @@ Each contribution must be described in a short paper of 5 pages or a full paper 
 
 Papers that describe use cases or novel approaches can be accompanied by concrete artifacts, such as models (requirements, design, analysis, transformation, composition, etc.), stored in a public repository. Artifacts should illustrate any experience with the conjoint use of different modeling languages.
 
-All submissions have to follow the ACM format (`acmart`) and must be submitted electronically in PDF format [via Easychair](https://easychair.org/conferences/?conf=mle24). They will be evaluated by at least three members of the program committee regarding novelty, correctness, significance, readability, and alignment with the workshop call.
+All submissions have to follow the ACM format (`acmart`) and must be submitted electronically in PDF format [via Easychair](https://easychair.org/conferences/?conf=mle2024). They will be evaluated by at least three members of the program committee regarding novelty, correctness, significance, readability, and alignment with the workshop call.
 Furthermore, all submissions must be original work and must not have been previously published or being under review elsewhere.
 The accepted papers will be included in the joint workshop proceedings published by the ACM.
 
 ## Dates
 
 - **Paper Abstract submission deadline**: Friday, June 28, 2024
-- **Paper submission deadline**: Friday, July 5, 2024
+- **Paper submission deadline**: ~~Friday, July 5, 2024~~ Monday, July 15, 2024 (Extended)
 - **Notification of acceptance**: Wednesday, August 7, 2024
 - **Camera-ready deadline**: Friday, August 16, 2024
 - **Workshop**: Sunday, September 22, 2024
@@ -137,18 +137,15 @@ The accepted papers will be included in the joint workshop proceedings published
 
 ## Program committee
 
-- Antonio Bucchiarone (MoDiS - FBK, Trento, Italy)
-- Marsha Chechik (University of Toronto, Canada)
-- Peter Clarke (Florida International University, USA)
-- Juergen Dingel (Queen's University, Canada)
-- Romina Eramo (University of L’Aquila, Italy)
-- Juan de Lara (Universidad Autónoma de Madrid, Spain)
-- Dorian Leroy (CEA, France)
-- Sofia Meacham (Bournemouth University, UK)
-- Zoltan Micskei (Budapest University of Technology and Economics, Hungary)
-- Jean-Marie Mottu (Nantes University, France)
-- Ernesto Posse (Zeligsoft, Canada)
-- Nicolas Rouquette (NASA's Jet Propulsion Laboratory, USA)
-- Ed Seidewitz (Model Driven Solutions, USA)
-- Bianca Wiesmayr (JKU Linz, Austria)
-- Vadim Zaytsev (University of Twente, Netherlands)
+- Marsha Chechik, University of Toronto, Canada
+- Juergen Dingel, Queen's University, Canada
+- Romina Eramo, University of Teramo, Italy
+- Peter J.Clarke, Florida International University, USA
+- Juan de Lara, Universidad Autonoma de Madrid, Spain
+- Sofia Meacham, Bournemouth University, UK
+- Zoltan Micskei, Budapest University of Technology and Economics, Hungary
+- Jean-Marie Mottu, Nantes Université, France
+- Ernesto Posse, Lumenix/Zeligsoft, Canada
+- Nicolas Rouquette, Jet Propulsion Laboratory, USA
+- Bianca Wiesmayr, Johannes Kepler University Linz, Austria
+- Vadim Zaytsev, Universiteit Twente, Netherlands

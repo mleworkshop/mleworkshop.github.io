@@ -16,7 +16,7 @@ It is a meeting opportunity for Software Language Engineering (SLE) enthusiasts 
 
 ## Next edition
 
-TBA
+[MLE 2024](editions/mle2024) (co-located with [MODELS 2024](https://conf.researchr.org/home/models-2024))
 
 ## Past editions
 
