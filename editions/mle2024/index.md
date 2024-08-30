@@ -27,11 +27,52 @@ The Modeling Language Engineering (MLE) workshop aims at bringing together resea
 
 ## Keynote
 
-TBA
+Alfonso Pierantonio
+
+**Title**: Achieving Better Workbenches in Model-Driven Engineering: Why Technology (and the models behind it) matter!
+
+In Model-Driven Engineering (MDE), the seamless integration among tools, languages, and processes is crucial for the success, acceptance, and adoption of such a software discipline, particularly in developing domain-specific modeling languages (DSMLs). The intricacy of modern domains requires flexibility, smooth integration of concerns, unobtrusive support to language extension and co-evolution round-tripping, and mitigation of the adversarial impact of unwanted complexity, including technical debt accumulation.
+
+Drawing on Heidegger’s concept of ‘ready-to-hand’ tools, this keynote examines the challenges and opportunities in creating tools and languages that support developers without disrupting their workflow. A tool is considered ‘ready-to-hand’ when it seamlessly supports our work, extending our being and enhancing our ability to solve problems, much like how a hammer becomes an extension of our hand when we use it to drive a nail. Conversely, a tool is “present-at-hand” when it forces us to shift our focus from the task to its operation and intricacies. While MDE offers powerful platforms for addressing the complexities of software-intensive systems, the extent to which these tools are integrated into our processes directly affects their usability and accessibility, including the cognitive load they impose.
+The keynote delves into the concept of key enablers — critical factors, whether they be technological assets or design decisions, that enabled the creation of jjodel, a collaborative and flexible modeling workbench designed with these concepts in mind. Special attention will be given to how the cohesive and reactive architecture of jjodel addresses the challenges of consistently integrating multiple notations and simplifying flexibility and collaborative modeling.
+
+**Bio**: Alfonso Pierantonio is a Professor of Software Engineering at the University of L’Aquila, Italy. He specializes in model-driven and language engineering, with a strong interest in co-evolution techniques, consistency management, and tool design and implementation. Alfonso is Editor-in-Chief of the Journal of Object Technology and on the editorial and advisory board of Software and System Modeling and Science of Computer Programming. He is in the Steering Committee of ACM/IEEE MoDELS.
 
 ## Program
 
-TBA
+Date: Sunday the 22nd of September 2024
+
+### Session 1 – Language Engineering and Domain-Specific Modeling (8:55 - 10:30)
+
+8:55 – Workshop introduction
+
+9:30 – ALFI: Action Language for Foundational UML as an Intermediate Language for Model Transformations in JetBrains MPS. Mario Fuksa, Timur Sağlam, Tim Neumann and Steffen Becker
+
+10:00 – A Synopsis on Import Statements in Modeling Languages. Nico Jansen, Bernhard Rumpe and David Schmalzing
+
+10:30 – Modelling of Cyber-Physical Systems through Domain-Specific Languages: Decision, Analysis, Design. Marcus Gerhold, Aliaksei Kouzel, Haroun Mangal, Selin Mehmed and Vadim Zaytsev
+
+### Coffee break (10:30 − 11:00)
+
+### Session 2 – Discussions (11:00 − 12:30)
+
+11:00 - Discussions (TBA)
+
+### Lunch break (12:30 − 14:00)
+
+### Session 3 – Keynote (14:00 - 15:30)
+
+14:00 – Keynote: Alfonso Pierantonio
+
+### Coffee break (15:30 - 16:00)
+
+### Session 4 – Modeling Language Tooling (16:00 - 17:30)
+
+16:00 – Hybrid Graphical-Textual DSL Editors: Vision, Requirements and Challenges. Ionut Predoaia, Dimitris Kolovos and Antonio García-Domínguez
+
+16:30 – Towards Model Product Lines: Composition of EMF Models. Horacio Hoyos Rodriguez, Victor Bandur, Vera Pantelic, Mark Lawford and Richard Paige
+
+17:00 – Mapping Requirements to Features to Create Traceability in Product Line Models. Thomas Chiang, Richard Paige, Alan Wassyng and Sébastien Mosser
 
 ## Call for papers
 
@@ -83,10 +124,10 @@ The accepted papers will be included in the joint workshop proceedings published
 ## Dates
 
 - **Paper Abstract submission deadline**: Friday, June 28, 2024
-- **Paper submission deadline**: Friday, 5 July 2024
-- **Notification of acceptance**: Wednesday, 7 August 2024
-- **Camera-ready deadline**: Friday, 16 August 2024
-- **Workshop**: TBA
+- **Paper submission deadline**: Friday, July 5, 2024
+- **Notification of acceptance**: Wednesday, August 7, 2024
+- **Camera-ready deadline**: Friday, August 16, 2024
+- **Workshop**: Sunday, September 22, 2024
 
 ## Organizing committee
 
@@ -96,4 +137,18 @@ The accepted papers will be included in the joint workshop proceedings published
 
 ## Program committee
 
-TBA
+- Antonio Bucchiarone (MoDiS - FBK, Trento, Italy)
+- Marsha Chechik (University of Toronto, Canada)
+- Peter Clarke (Florida International University, USA)
+- Juergen Dingel (Queen's University, Canada)
+- Romina Eramo (University of L’Aquila, Italy)
+- Juan de Lara (Universidad Autónoma de Madrid, Spain)
+- Dorian Leroy (CEA, France)
+- Sofia Meacham (Bournemouth University, UK)
+- Zoltan Micskei (Budapest University of Technology and Economics, Hungary)
+- Jean-Marie Mottu (Nantes University, France)
+- Ernesto Posse (Zeligsoft, Canada)
+- Nicolas Rouquette (NASA's Jet Propulsion Laboratory, USA)
+- Ed Seidewitz (Model Driven Solutions, USA)
+- Bianca Wiesmayr (JKU Linz, Austria)
+- Vadim Zaytsev (University of Twente, Netherlands)
