@@ -25,18 +25,20 @@ Equally, the proliferation of domain-specific modeling languages required increa
 
 The Modeling Language Engineering (MLE) workshop aims at bringing together researchers and practitioners working on modeling-language and software-language engineering. It is a meeting opportunity for Software Language Engineering (SLE) enthusiasts within the software-modeling community.
 
-## Keynote
+## Keynote (Alfonso Pierantonio)
 
-Alfonso Pierantonio
-
-**Title**: Achieving Better Workbenches in Model-Driven Engineering: Why Technology (and the models behind it) matter!
+### Achieving Better Workbenches in Model-Driven Engineering: Why Technology (and the models behind it) matter!
 
 In Model-Driven Engineering (MDE), the seamless integration among tools, languages, and processes is crucial for the success, acceptance, and adoption of such a software discipline, particularly in developing domain-specific modeling languages (DSMLs). The intricacy of modern domains requires flexibility, smooth integration of concerns, unobtrusive support to language extension and co-evolution round-tripping, and mitigation of the adversarial impact of unwanted complexity, including technical debt accumulation.
 
 Drawing on Heidegger’s concept of ‘ready-to-hand’ tools, this keynote examines the challenges and opportunities in creating tools and languages that support developers without disrupting their workflow. A tool is considered ‘ready-to-hand’ when it seamlessly supports our work, extending our being and enhancing our ability to solve problems, much like how a hammer becomes an extension of our hand when we use it to drive a nail. Conversely, a tool is “present-at-hand” when it forces us to shift our focus from the task to its operation and intricacies. While MDE offers powerful platforms for addressing the complexities of software-intensive systems, the extent to which these tools are integrated into our processes directly affects their usability and accessibility, including the cognitive load they impose.
 The keynote delves into the concept of key enablers — critical factors, whether they be technological assets or design decisions, that enabled the creation of jjodel, a collaborative and flexible modeling workbench designed with these concepts in mind. Special attention will be given to how the cohesive and reactive architecture of jjodel addresses the challenges of consistently integrating multiple notations and simplifying flexibility and collaborative modeling.
 
-**Bio**: Alfonso Pierantonio is a Professor of Software Engineering at the University of L’Aquila, Italy. He specializes in model-driven and language engineering, with a strong interest in co-evolution techniques, consistency management, and tool design and implementation. Alfonso is Editor-in-Chief of the Journal of Object Technology and on the editorial and advisory board of Software and System Modeling and Science of Computer Programming. He is in the Steering Committee of ACM/IEEE MoDELS.
+### Speaker: Alfonso Pierantonio
+
+<img style="display: block; margin: auto; height: 300px;" alt="Alfonso Pierantonio photo" src="/editions/mle2024/images/pierantonio.jpeg">
+
+Alfonso Pierantonio is a Professor of Software Engineering at the University of L’Aquila, Italy. He specializes in model-driven and language engineering, with a strong interest in co-evolution techniques, consistency management, and tool design and implementation. Alfonso is Editor-in-Chief of the Journal of Object Technology and on the editorial and advisory board of Software and System Modeling and Science of Computer Programming. He is in the Steering Committee of ACM/IEEE MoDELS.
 
 ## Program
 
