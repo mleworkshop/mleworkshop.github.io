@@ -48,17 +48,17 @@ Date: Sunday the 22nd of September 2024
 
 8:55 – Workshop introduction
 
-9:30 – ALFI: Action Language for Foundational UML as an Intermediate Language for Model Transformations in JetBrains MPS. Mario Fuksa, Timur Sağlam, Tim Neumann and Steffen Becker
+9:00 – ALFI: Action Language for Foundational UML as an Intermediate Language for Model Transformations in JetBrains MPS. Mario Fuksa, Timur Sağlam, Tim Neumann and Steffen Becker
 
-10:00 – A Synopsis on Import Statements in Modeling Languages. Nico Jansen, Bernhard Rumpe and David Schmalzing
+9:30 – A Synopsis on Import Statements in Modeling Languages. Nico Jansen, Bernhard Rumpe and David Schmalzing
 
-10:30 – Modelling of Cyber-Physical Systems through Domain-Specific Languages: Decision, Analysis, Design. Marcus Gerhold, Aliaksei Kouzel, Haroun Mangal, Selin Mehmed and Vadim Zaytsev
+10:00 – Modelling of Cyber-Physical Systems through Domain-Specific Languages: Decision, Analysis, Design. Marcus Gerhold, Aliaksei Kouzel, Haroun Mangal, Selin Mehmed and Vadim Zaytsev
 
 ### Coffee break (10:30 − 11:00)
 
 ### Session 2 – Discussions (11:00 − 12:30)
 
-11:00 - Discussions (TBA)
+11:00 - Discussions: Modeling Languages and AI
 
 ### Lunch break (12:30 − 14:00)
 
