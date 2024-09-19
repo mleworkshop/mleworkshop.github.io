@@ -27,7 +27,7 @@ The Modeling Language Engineering (MLE) workshop aims at bringing together resea
 
 ## Keynote (Alfonso Pierantonio)
 
-### Achieving Better Workbenches in Model-Driven Engineering: Why Technology (and the models behind it) matter!
+### Achieving Better Workbenches in Model-Driven Engineering: Why Technology (and the models behind it) Matters!
 
 In Model-Driven Engineering (MDE), the seamless integration among tools, languages, and processes is crucial for the success, acceptance, and adoption of such a software discipline, particularly in developing domain-specific modeling languages (DSMLs). The intricacy of modern domains requires flexibility, smooth integration of concerns, unobtrusive support to language extension and co-evolution round-tripping, and mitigation of the adversarial impact of unwanted complexity, including technical debt accumulation.
 
