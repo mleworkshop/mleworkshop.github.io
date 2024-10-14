@@ -8,9 +8,9 @@ The current members of the steering committee are:
 
 - [Ed Seidewitz](https://www.linkedin.com/in/seidewitz), Model Driven Solutions, USA
 - [Jeff Gray](http://gray.cs.ua.edu/), University of Alabama, USA
-- [Erwan Bousse](https://bousse-e.univ-nantes.io/), University of Nantes, France
+- [Erwan Bousse](https://bousse-e.univ-nantes.io/), Nantes University, France
 - [Benoit Combemale](https://www.irit.fr/~Benoit.Combemale/), University of Rennes 1, France
-- [Romina Eramo](http://people.disim.univaq.it/~romina.eramo/), University of L’Aquila, Italy
+- [Romina Eramo](https://www.unite.it/UniTE/Docente/Doc/reramo), University of Teramo, Italy
 - [Taylor Riché](https://www.linkedin.com/in/taylor-rich%C3%A9-2a380616/), National Instruments, USA
 - [Andreas Wortmann](https://awortmann.github.io/), University of Stuttgart, Germany
 - [Steffen Zschaler](http://www.steffen-zschaler.de/), King's College London, UK
