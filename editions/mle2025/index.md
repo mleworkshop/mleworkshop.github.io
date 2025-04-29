@@ -8,9 +8,9 @@ subtitle: 7th International Workshop on Modeling Language Engineering, September
   <a href="#about">About</a> | 
   <!-- <a href="#keynote">Keynote</a> |  -->
   <!-- <a href="#program">Program</a> | -->
-  <a href="#call-for-papers">Call for papers</a> |
+  <a href="#call-for-papers">Call for Papers</a> |
   <a href="#dates">Dates</a> | 
-  <a href="#program-committee">Program committee</a>
+  <a href="#program-committee">Program Committee</a>
 </p>
 
 ## About
@@ -27,12 +27,13 @@ The Modeling Language Engineering (MLE) workshop aims at bringing together resea
 
 ## Keynote
 
+tba
 
 ## Program
 
-Date: 
+tba
 
-## Call for papers
+## Call for Papers
 
 ### Topics
 
@@ -69,29 +70,44 @@ The final session of the workshop will be focused on summarizing the key topics 
 
 ### Submission
 
-We expect early research results about the aforementioned topics, descriptions of problems, case studies, experience reports, or solutions related to the topics of interest.
+For each of the aforementioned topics, authors are invited to submit a paper of 6 pages following the IEEE format (ieeetran). Up to two additional pages containing only references are permitted. The workshop is open to the following types of submissions: 
 
-Each contribution must be described in a short paper of 5 pages or a full paper of 10 pages, including references, in ACM format (`acmart`).
+- vision papers
+- technical (novel approach) papers
+- experience report papers; and
+- ramp-up papers.
 
-Papers that describe use cases or novel approaches can be accompanied by concrete artifacts, such as models (requirements, design, analysis, transformation, composition, etc.), stored in a public repository. Artifacts should illustrate any experience with the conjoint use of different modeling languages.
+Where all submissions shall relate to the topic of "modeling language engineering in 2035". Ramp-up papers are papers not meant for publication but for
+discussion and refining at the workshop to lead to submission at a related venue (such as the SLE conference). Ramp-up papers will be reviewed with
+this in mind and will receive more time for discussion during the workshop. Also, submitted papers can be accompanied by concrete artifacts, such as
+models (requirements, design, analysis, transformation, composition, etc.), stored in a public repository. 
 
-All submissions have to follow the ACM format (`acmart`) and must be submitted electronically in PDF format [via Easychair](https://easychair.org/conferences/?conf=mle2025). They will be evaluated by at least three members of the program committee regarding novelty, correctness, significance, readability, and alignment with the workshop call.
-Furthermore, all submissions must be original work and must not have been previously published or being under review elsewhere.
-The accepted papers will be included in the joint workshop proceedings published by the ACM.
+All submissions have to follow the IEEE format and must be submitted electronically in PDF format via [EasyChair](https://easychair.org/conferences?
+conf=mle2025). They will be evaluated by at least three members of the program committee regarding novelty, correctness, significance, readability,
+and alignment with the workshop call. More precisely, the PC will evaluate: 
+
+- For vision papers, the impact, scope, and plausibility of the vision;
+- For technical papers and ramp-up papers, the soundness and the novelty of the proposed approach;
+- For experience report papers, the empirical protocol and the impact of its outcomes;
+
+Furthermore, all submissions must be original work and must not have been previously published or being under review elsewhere. The accepted papers which are not ramp-up papers, will be included in the joint workshop proceedings published by the IEEE.
 
 ## Dates
 
-- **Paper Abstract submission deadline**: 
-- **Paper submission deadline**: 
-- **Notification of acceptance**: 
-- **Camera-ready deadline**: 
-- **Workshop**: 
+- **Paper Abstract submission deadline**: June 25, 2025
+- **Paper submission deadline**: July 03, 2025
+- **Notification of acceptance**: July 31, 2025
+- **Camera-ready deadline**: August 07, 2025
+- **Workshop**: tba
 
-## Organizing committee
+## Organizing Committee 
 
-- Andreas Wortmann (University of Stuttgart, Germany)
-- Ivan Kurtev (Eindhoven University & Capgemini Engineering, Netherlands)
 - Josselin Enet (F1RE, Netherlands)
+- Ivan Kurtev (Eindhoven University & Capgemini Engineering, Netherlands)
+- Andreas Wortmann (University of Stuttgart, Germany)
 
-## Program committee
+Contact us via mle2025@easychair.org.
 
+## Program Committee
+
+tba
