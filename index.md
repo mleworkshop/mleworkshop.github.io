@@ -16,12 +16,11 @@ It is a meeting opportunity for Software Language Engineering (SLE) enthusiasts 
 
 ## Next edition
 
-TBA
+- [MLE 2025](editions/mle2025) (co-located with [MODELS 2025](https://conf.researchr.org/home/models-2025))
+
 
 ## Past editions
 
-- [MLE 2025](editions/mle2025) (co-located with [MODELS 2025](https://conf.researchr.org/home/models-2025))
-    - proceedings (tba)
 - [MLE 2024](editions/mle2024) (co-located with [MODELS 2024](https://conf.researchr.org/home/models-2024))
     - proceedings (tba)
 - [MLE 2023](editions/mle2023) (co-located with [MODELS 2023](https://conf.researchr.org/home/models-2023))
