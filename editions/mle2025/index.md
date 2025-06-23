@@ -110,4 +110,9 @@ Contact us via mle2025@easychair.org.
 
 ## Program Committee
 
-tba
+- Hugo Brunelière, IMT Atlantique, France
+- Juha-Pekka Tolvanen, MetaCase, Finland
+- Bianca Wiesmayr, Johannes Kepler University Linz, Austria
+- Zoltan Micskei, Budapest University of Technology and Economics, Hungary
+- Ulyana Tikhonova, F1RE, The Netherlands
+- Léa Brunschwig, Université de Pau et des Pays de l'Adour, France
