@@ -116,3 +116,15 @@ Contact us via mle2025@easychair.org.
 - Zoltan Micskei, Budapest University of Technology and Economics, Hungary
 - Ulyana Tikhonova, F1RE, The Netherlands
 - Léa Brunschwig, Université de Pau et des Pays de l'Adour, France
+- Andreas	Graf,	itemis GmbH
+- Juan	de Lara, Universidad Autonoma de Madrid
+- Jean-Marie Mottu, Nantes Université
+- Juergen	Dingel, Queen's University
+- Nicolas	Rouquette, Jet Propulsion Laboratory
+- Ernesto	Posse, Lumenix/Zeligsoft
+- Marsha	Chechik, University of Toronto
+- Peter	Clarke, Florida International University
+- Romina	Eramo, University of Teramo
+- Faezeh	Khorram, HUAWEI Technologies
+- Eugen	Schindler, Canon Production Printing
+- Cortland	Starrett, One Fact Inc
