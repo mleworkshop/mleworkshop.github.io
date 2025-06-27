@@ -94,8 +94,7 @@ Furthermore, all submissions must be original work and must not have been previo
 
 ## Dates
 
-- **Paper Abstract submission deadline**: June 25, 2025
-- **Paper submission deadline**: July 03, 2025
+- **Paper submission deadline**: July 10, 2025
 - **Notification of acceptance**: July 31, 2025
 - **Camera-ready deadline**: August 07, 2025
 - **Workshop**: tba
