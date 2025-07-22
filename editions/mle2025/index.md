@@ -70,6 +70,8 @@ Cyber-Physical Systems, Smart Manufacturing, Industry 4.0; Internet of Services,
 
 ### Workshop Format
 
+#### The workshop will be held completely online!
+
 This full-day workshop will prioritize discussions over presentations. We plan to open with a keynote in the morning, followed by paper presentations.
 The afternoon will then be spent primarily in discussions inspired by topics raised by the keynotes and paper presentations.
 Where there is sufficient divergence in the topics raised, we will create break-out groups of participants interested in each sub-topic. The goal of these discussions is to identify commonalities and connections between different topics, support research networking, cross-pollination, and informal knowledge transfer.
