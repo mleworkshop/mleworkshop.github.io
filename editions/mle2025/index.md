@@ -110,23 +110,24 @@ Furthermore, all submissions must be original work and must not have been previo
 
 ## Organizing Committee 
 
-- Josselin Enet (F1RE, Netherlands)
-- Ivan Kurtev (Eindhoven University & Capgemini Engineering, Netherlands)
-- Andreas Wortmann (University of Stuttgart, Germany)
+- Josselin Enet, F1RE
+- Ivan Kurtev, Eindhoven University & Capgemini Engineering
+- Andreas Wortmann, University of Stuttgart
 
 Contact us via mle2025@easychair.org.
 
 ## Program Committee
 
-- Hugo Brunelière, IMT Atlantique, France
-- Juha-Pekka Tolvanen, MetaCase, Finland
-- Bianca Wiesmayr, Johannes Kepler University Linz, Austria
-- Zoltan Micskei, Budapest University of Technology and Economics, Hungary
-- Ulyana Tikhonova, F1RE, The Netherlands
-- Léa Brunschwig, Université de Pau et des Pays de l'Adour, France
+- Hugo Brunelière, IMT Atlantique
+- Juha-Pekka Tolvanen, MetaCase
+- Bianca Wiesmayr, Johannes Kepler University Linz
+- Zoltan Micskei, Budapest University of Technology and Economics
+- Ulyana Tikhonova, F1RE
+- Léa Brunschwig, Université de Pau et des Pays de l'Adour
 - Andreas	Graf,	itemis AG
-- Juan	de Lara, Universidad Autonoma de Madrid
+- Juande Lara, Universidad Autonoma de Madrid
 - Jean-Marie Mottu, Nantes Université
+- Jerome Pfeiffer, University of Stuttgart
 - Juergen	Dingel, Queen's University
 - Nicolas	Rouquette, Jet Propulsion Laboratory
 - Ernesto	Posse, Lumenix/Zeligsoft
