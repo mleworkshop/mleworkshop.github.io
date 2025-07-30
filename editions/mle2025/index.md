@@ -25,20 +25,24 @@ Equally, the proliferation of domain-specific modeling languages required increa
 
 The Modeling Language Engineering (MLE) workshop aims at bringing together researchers and practitioners working on modeling-language and software-language engineering. It is a meeting opportunity for Software Language Engineering (SLE) enthusiasts within the software-modeling community.
 
-## Keynote (Jean-Marc Jézéquel)
+## Keynote by Jean-Marc Jézéquel
 
 ### Composability in Modeling Languages 
 
 Composability is a nice to have property when engineering modeling languages.
 However it is seldom there at the inception of a new language, and generally not done in the right way. We take several examples of composability in existing languages, and highlight their drawbacks. We then isolate the most basic properties of composition with the mathematical notions of commutativity and associativity, and discuss how modeling languages should be engineered with these in mind, using the example of Grail, a variability realization language for product lines. 
 
-### Speaker: Jean-Marc Jézéquel
-
 Jean-Marc Jézéquel is a Professor of Software Engineering at the University of Rennes and a member of the DiverSE team at IRISA/Inria, as well as a fellow of the Institut Universitaire de France (IUF). Since 2024 he is President of Informatics Europe. From 2012 to 2020 he was Director of IRISA, one of the largest public research lab in Informatics in France. In 2016 he received the Silver Medal from CNRS and in 2020 the IEEE/ACM MODELS career award. He was an invited professor at McGill University in 2022.
 
 ## Program
 
-tba
+### Session 1
+- Opening
+- Keynote "omposability in Modeling Languages" by Jean-Marc Jézéquel
+
+### Session 2
+- Paper presentations
+- Discussion on the future of MLE
 
 ## Call for Papers
 
