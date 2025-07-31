@@ -38,7 +38,7 @@ Jean-Marc Jézéquel is a Professor of Software Engineering at the University of
 
 ### Session 1
 - Opening
-- Keynote "omposability in Modeling Languages" by Jean-Marc Jézéquel
+- Keynote "Composability in Modeling Languages" by [Jean-Marc Jézéquel](https://people.irisa.fr/Jean-Marc.Jezequel/)
 
 ### Session 2
 - Paper presentations
