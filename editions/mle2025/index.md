@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MLE 2025
-subtitle: 7th International Workshop on Modeling Language Engineering, October, 2025 <br /> Co-located with <a href="https://conf.researchr.org/home/models-2025">MODELS 2025</a><br /> <b>fully online</b>
+subtitle: 7th International Workshop on Modeling Language Engineering, October, 2025 <br /> Co-located with <a href="https://conf.researchr.org/home/models-2025">MODELS 2025</a><br /> The workshop will take place online
 ---
 
 <p align="center">
