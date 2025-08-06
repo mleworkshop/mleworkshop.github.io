@@ -5,12 +5,11 @@ subtitle: 7th International Workshop on Modeling Language Engineering, October, 
 ---
 
 <p align="center">
-  <a href="#about">About</a> | 
-  <!-- <a href="#keynote">Keynote</a> |  -->
-  <!-- <a href="#program">Program</a> | -->
-  <a href="#call-for-papers">Call for Papers</a> |
-  <a href="#dates">Dates</a> | 
+  <!--<a href="#about">About</a> |--> 
+  <a href="#keynote">Keynote</a> | 
   <a href="#program">Program</a> | 
+  <a href="#call-for-papers">Call for Papers</a> |
+  <a href="#important-dates">Important Dates</a> | 
   <a href="#organizers">Organizers</a> | 
   <a href="#program-committee">Program Committee</a>
 </p>
@@ -107,7 +106,7 @@ and alignment with the workshop call. More precisely, the PC will evaluate:
 
 Furthermore, all submissions must be original work and must not have been previously published or being under review elsewhere. The accepted papers which are not ramp-up papers, will be included in the joint workshop proceedings published by the IEEE.
 
-## Dates
+## Important Dates
 
 - **Paper submission deadline**: July 10, 2025
 - **Notification of acceptance**: July 31, 2025
