@@ -10,8 +10,8 @@ subtitle: 7th International Workshop on Modeling Language Engineering, October, 
   <a href="#program">Program</a> | 
   <a href="#call-for-papers">Call for Papers</a> |
   <a href="#important-dates">Important Dates</a> | 
-  <a href="#organizers">Organizers</a> | 
-  <a href="#program-committee">Program Committee</a>
+  <a href="#program-committee">Program Committee</a> | 
+  <a href="#organizers">Organizers</a> 
 </p>
 
 ## About
@@ -113,14 +113,6 @@ Furthermore, all submissions must be original work and must not have been previo
 - **Camera-ready deadline**: August 07, 2025
 - **Workshop**: tba
 
-## Organizers 
-
-- Josselin Enet, F1RE
-- Ivan Kurtev, Eindhoven University & Capgemini Engineering
-- Andreas Wortmann, University of Stuttgart
-
-Contact us via mle2025@easychair.org.
-
 ## Program Committee
 
 - Hugo Brunelière, IMT Atlantique
@@ -142,3 +134,11 @@ Contact us via mle2025@easychair.org.
 - Faezeh	Khorram, HUAWEI Technologies
 - Eugen	Schindler, Canon Production Printing
 - Cortland	Starrett, One Fact Inc
+
+## Organizers 
+
+- Josselin Enet, F1RE
+- Ivan Kurtev, Eindhoven University & Capgemini Engineering
+- Andreas Wortmann, University of Stuttgart
+
+Contact us via mle2025@easychair.org.
