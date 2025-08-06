@@ -9,7 +9,7 @@ subtitle: 7th International Workshop on Modeling Language Engineering, October, 
   <a href="#keynote">Keynote</a> | 
   <a href="#program">Program</a> | 
   <a href="#call-for-papers">Call for Papers</a> |
-  <a href="#important-dates">Important Dates</a> | 
+  <a href="#important-dates">Dates</a> | 
   <a href="#program-committee">Program Committee</a> | 
   <a href="#organizers">Organizers</a> 
 </p>
