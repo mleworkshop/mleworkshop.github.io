@@ -10,6 +10,8 @@ subtitle: 7th International Workshop on Modeling Language Engineering, October, 
   <!-- <a href="#program">Program</a> | -->
   <a href="#call-for-papers">Call for Papers</a> |
   <a href="#dates">Dates</a> | 
+  <a href="#program">Program</a> | 
+  <a href="#organizers">Organizers</a> | 
   <a href="#program-committee">Program Committee</a>
 </p>
 
@@ -112,7 +114,7 @@ Furthermore, all submissions must be original work and must not have been previo
 - **Camera-ready deadline**: August 07, 2025
 - **Workshop**: tba
 
-## Organizing Committee 
+## Organizers 
 
 - Josselin Enet, F1RE
 - Ivan Kurtev, Eindhoven University & Capgemini Engineering
