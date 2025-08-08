@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MLE 2025
-subtitle: 7th International Workshop on Modeling Language Engineering, October, 2025 <br /> Co-located with <a href="https://conf.researchr.org/home/models-2025">MODELS 2025</a>
+subtitle: International Joint Workshop on Modeling Language Engineering (MLE) and Sustainability and Modeling (SusMod), October, 2025 <br /> Co-located with <a href="https://conf.researchr.org/home/models-2025">MODELS 2025</a>
 ---
 
 <p align="center">
@@ -28,13 +28,14 @@ The Modeling Language Engineering (MLE) workshop aims at bringing together resea
 
 ## Program
 
-### Session 1
-- Opening
-- Keynote "Composability in Modeling Languages" by [Jean-Marc Jézéquel](https://people.irisa.fr/Jean-Marc.Jezequel/)
+### Session 1: Opening and Keynote
+- Opening by the organizers 
+- Keynote on "Composability in Modeling Languages" by [Jean-Marc Jézéquel](https://people.irisa.fr/Jean-Marc.Jezequel/)
 
-### Session 2
-- Paper presentations
-- Discussion on the future of MLE
+### Session 2: Paper Presentations and Discussion
+- Benedikt Jutz, Zenon Zacouris, Thomas Weber, Erik Burger, Maribel Acosta and Ralf Reussner. **What can we learn from other Domains – Towards an Exploratory Process for the Extension of a Language based on Cross-Domain Knowledge Transfer**.
+- NN
+- Discussion on the sustainability in, for, and with modeling languages
 
 ## Keynote by Jean-Marc Jézéquel
 
