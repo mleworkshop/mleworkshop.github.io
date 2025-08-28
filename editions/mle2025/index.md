@@ -28,17 +28,17 @@ The Modeling Language Engineering (MLE) workshop aims at bringing together resea
 
 ## Program
 
-Note that all times are specified in GMT-4. 
+Note that all times are specified in Michigans Eastern Time (i.e., GMT-4)
 
-### Session 1: Opening and Keynote
-- 09:00 Opening by the organizers 
-- 09:15 Keynote: *Composability in Modeling Languages* by [Jean-Marc Jézéquel](https://people.irisa.fr/Jean-Marc.Jezequel/)
+### Session 1: Opening and Keynote (08:30 - 10:00)
+- 08:30 Opening by the organizers 
+- 08:45 Keynote: *Composability in Modeling Languages* by [Jean-Marc Jézéquel](https://people.irisa.fr/Jean-Marc.Jezequel/)
 
-### Session 2: Paper Presentations and Discussion
-- 11:00 Paper presentation: *What can we learn from other Domains – Towards an Exploratory Process for the Extension of a Language based on Cross-Domain Knowledge Transfer* by Benedikt Jutz, Zenon Zacouris, Thomas Weber, Erik Burger, Maribel Acosta, and Ralf Reussner.
-- 11:25 Paper presentation: *Sustainability implications of Large Language Model use in Model-Driven Engineering.* by Kevin Lano, Shekoufeh Rahimi, and Qiaomu Xue. 
-- 11:50 Discussion: Sustainability in, for, and with Modeling Languages
-- 12:25 Closing by the organizers
+### Session 2: Paper Presentations and Discussion (10:30 - 12:00)
+- 10:30 Paper presentation: *What can we learn from other Domains – Towards an Exploratory Process for the Extension of a Language based on Cross-Domain Knowledge Transfer* by Benedikt Jutz, Zenon Zacouris, Thomas Weber, Erik Burger, Maribel Acosta, and Ralf Reussner.
+- 10:55 Paper presentation: *Sustainability implications of Large Language Model use in Model-Driven Engineering.* by Kevin Lano, Shekoufeh Rahimi, and Qiaomu Xue. 
+- 11:20 Discussion: Sustainability in, for, and with Modeling Languages
+- 11:55 Closing by the organizers
 
 ## Keynote by Jean-Marc Jézéquel
 
