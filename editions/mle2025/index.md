@@ -36,7 +36,8 @@ Note that all times are specified in Michigans Eastern Time (i.e., GMT-4)
 
 ### Session 2: Paper Presentations and Discussion (10:30 - 12:00)
 - 10:30 Paper presentation: *What can we learn from other Domains – Towards an Exploratory Process for the Extension of a Language based on Cross-Domain Knowledge Transfer* by Benedikt Jutz, Zenon Zacouris, Thomas Weber, Erik Burger, Maribel Acosta, and Ralf Reussner.
-- 10:55 Paper presentation: *Sustainability implications of Large Language Model use in Model-Driven Engineering.* by Kevin Lano, Shekoufeh Rahimi, and Qiaomu Xue. 
+- 10:50 Paper presentation: *Sustainability implications of Large Language Model use in Model-Driven Engineering* by Kevin Lano, Shekoufeh Rahimi, and Qiaomu Xue.
+- 11:10 Flash Talk: *Ethical and Sustainable AI? Lessons from Participatory Modeling* by Laura Schmitt Olabisi, Jennifer Helgeson, and Rebecca Jordan.
 - 11:20 Discussion: Sustainability in, for, and with Modeling Languages
 - 11:55 Closing by the organizers
 
